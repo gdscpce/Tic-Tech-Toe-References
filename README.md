@@ -1,17 +1,71 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+# `Tic-Tech-Toe` by GDSC_PCE
+## Web development
+
+### Video Resources
+
+**CS50 Course** - CS50 is an introductory computer science course offered by Harvard University that covers a wide range of topics in computer science and is designed to be accessible to students with no prior programming experience.
+<https://youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu>
+### Tools
 
 
-# Tic-Tech-Toe - References & Metarials
+### Text Resources
 
-This repo, includes all references & materials which are add-on to the 'Tic-Tech-Toe' event, which was conducted by GDSC-PCE on 21st December 2022.
+**Web.dev** - web.dev is a website and learning resource for web developers provided by Google, offering resources and tools for improving and optimizing the performance, accessibility, and security of websites.
+<web.dev>
 
-
-
-## Contributers
-
-- [Vrushali Chaudhary](https://www.github.com/Tom-Mouse-p)
-- [Pranav Rajeevan](https://www.github.com/Tom-Mouse-p)
-- [someone](https://www.github.com/Tom-Mouse-p)
+**Mozilla Docs** - MDN Web Docs is a comprehensive resource for web developers provided by Mozilla, offering documentation and reference materials on web technologies as well as guides and tutorials on web development best practices.
+<https://developer.mozilla.org/>
 
 
+
+
+
+
+
+
+
+
+
+
+## UI and UX
+
+### Video Links
+
+
+### Tools
+
+**Excalidraw** - Make UI on the web (Collabration & Live Share Available)
+<https://excalidraw.com/>
+
+
+**Dribbble** - Dribbble is a platform for designers to share and discover design work.
+<https://dribbble.com/>
+
+
+**Figma** - Figma is a design and prototyping tool for creating and collaborating on designs.
+<https://www.figma.com/>
+
+
+**10015.io** - 10015.io is a “free all-in-one toolbox” solution created to ease your life by preventing bookmark mess
+<https://10015.io/>
+
+
+### Documentations & Oth. Resources
+
+**Material Design** - Material Design is a design system developed by Google that provides a consistent, user-friendly look and feel for digital interfaces across a range of devices and platforms.
+<https://m3.material.io/>	
+
+**Frontendmentor.io/** -Frontendmentor.io is a website that provides design and development challenges for front-end developers to practice and improve their skills, as well as a community for sharing work and getting feedback.
+<https://www.frontendmentor.io/>
+
+## UI and UX
+
+### Video Links
+
+
+### Tools
+
+
+
+### Documentations & Oth. Resources
